@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScrollTexture.cs">
+    <Files>
+      <File FileName="SpessShooter.sln" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AutoType.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollTexture.cs" Line="37" Column="94" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DamagePlayerOnTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RandomSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TiltAround.cs" Line="67" Column="6" />
+      <File FileName="Assets\Scripts\Rotate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
